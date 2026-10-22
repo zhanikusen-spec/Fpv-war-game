@@ -1,0 +1,14 @@
+{
+  "name": "fpv-war-game",
+  "version": "1.0.0",
+  "description": "FPV War: 3D игра с серверами, оружием и техникой",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
